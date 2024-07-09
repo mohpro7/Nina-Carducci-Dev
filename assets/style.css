@@ -21,6 +21,9 @@ body {
 .top-header .name {
 	font-size: 26px;
 }
+.nav-link {
+    cursor: pointer;
+}
 
 .nav ul {
 	display: flex;
@@ -102,7 +105,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #68643c;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
